@@ -7,21 +7,24 @@ to an LLM at all, it's your own API key, called directly from the page.
 ## 🔍 [Archive Mole](https://github.com/laustenfaund/Archive_Mole)
 A local, offline reader for your ChatGPT and Claude conversation exports —
 search, filter, tag, and browse your own archive without sending it
-anywhere. Includes an optional in-app AI assistant (bring your own key).
+anywhere. Core browsing needs no setup; the optional in-app AI assistant
+needs your own Anthropic API key (bring your own key).
 
-**[Try it](https://laustenfaund.github.io/Archive_Mole/Archive_Mole.html)** · [Source](https://github.com/laustenfaund/Archive_Mole)
+**[Try it](https://laustenfaund.github.io/Archive_Mole/)** · [Source](https://github.com/laustenfaund/Archive_Mole)
 
 ## 🗣️ [U/I](https://github.com/laustenfaund/UI)
 Reworks a message into phrasing more legible to a reader who communicates
 differently than you do — aimed at diffusing the tension misunderstanding
-causes, not just at literal translation.
+causes, not just at literal translation. Needs your own Anthropic API key
+to run (bring your own key).
 
 **[Try it](https://laustenfaund.github.io/UI/)** · [Source](https://github.com/laustenfaund/UI)
 
 ## 🏗️ [Project Manager](https://github.com/laustenfaund/ProjectManager)
 A single-file construction/renovation project tracker — twelve tabs
-covering a project end to end, with optional one-way sync to your own
-Google Sheets, Docs, and Drive.
+covering a project end to end. Core tracking needs no setup; optional
+sync to your own Google Sheets, Docs, and Drive needs your own Google
+Cloud OAuth credentials (bring your own key).
 
 **[Try it](https://laustenfaund.github.io/ProjectManager/)** · [Source](https://github.com/laustenfaund/ProjectManager)
 

@@ -24,7 +24,7 @@ to run (bring your own key).
 A single-file construction/renovation project tracker — twelve tabs
 covering a project end to end. Core tracking needs no setup; optional
 sync to your own Google Sheets, Docs, and Drive needs your own Google
-Cloud OAuth credentials (bring your own key).
+Cloud OAuth credentials.
 
 **[Try it](https://laustenfaund.github.io/ProjectManager/)** · [Source](https://github.com/laustenfaund/ProjectManager)
 

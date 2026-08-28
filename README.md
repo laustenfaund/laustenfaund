@@ -18,12 +18,12 @@ causes, not just at literal translation.
 
 **[Try it](https://laustenfaund.github.io/UI/)** · [Source](https://github.com/laustenfaund/UI)
 
-## 🏗️ Project Manager
+## 🏗️ [Project Manager](https://github.com/laustenfaund/ProjectManager)
 A single-file construction/renovation project tracker — twelve tabs
 covering a project end to end, with optional one-way sync to your own
 Google Sheets, Docs, and Drive.
 
-*(repo is currently private — ask for access)*
+**[Try it](https://laustenfaund.github.io/ProjectManager/)** · [Source](https://github.com/laustenfaund/ProjectManager)
 
 ---
 

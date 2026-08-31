@@ -27,6 +27,22 @@ Sheets, Docs, and Drive.
 
 **[Try it](https://laustenfaund.github.io/ProjectManager/)** · [Source](https://github.com/laustenfaund/ProjectManager)
 
+## 🐐 [Note Goat](https://github.com/laustenfaund/Note_Goat)
+A single-file, browser-only personal organizer built around modules you
+name yourself — appointments, medications, tasks, notes, whatever needs
+tracking — instead of a fixed structure. Optional sync to your own Google
+Sheets, Docs, and Calendar.
+
+**[Try it](https://laustenfaund.github.io/Note_Goat/)** · [Source](https://github.com/laustenfaund/Note_Goat)
+
+## ⚗️ [Distill](https://github.com/laustenfaund/Distill)
+Reworks whatever you're about to send an LLM into something denser and
+structurally clearer — same meaning, fewer tokens, easier to parse
+correctly the first time. Needs your own Anthropic API key to run (bring
+your own key).
+
+**[Try it](https://laustenfaund.github.io/Distill/)** · [Source](https://github.com/laustenfaund/Distill)
+
 ---
 
 All of these are local-first by design: no server, no account with the

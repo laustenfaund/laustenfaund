@@ -42,10 +42,10 @@ Sheets, Docs, and Calendar.
 ## ⚗️ [Distill](https://github.com/laustenfaund/Distill)
 Reworks whatever you're about to send an LLM into something denser and
 structurally clearer — same meaning, fewer tokens, easier to parse
-correctly the first time. Needs your own Anthropic API key to run (bring
-your own key).
+correctly the first time. Two ways to run it: bring your own Anthropic
+API key, or use the passcode-gated hosted version if you have one.
 
-**[Try it](https://laustenfaund.github.io/Distill/)** · [Source](https://github.com/laustenfaund/Distill)
+**[Try it](https://laustenfaund.github.io/Distill/)** (bring your own key) · **[Try the hosted version](https://laustenfaund.github.io/Distill/hosted/)** (passcode) · [Source](https://github.com/laustenfaund/Distill)
 
 ---
 

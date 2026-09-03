@@ -35,9 +35,12 @@ Sheets, Docs, and Drive.
 A single-file, browser-only personal organizer built around modules you
 name yourself — appointments, medications, tasks, notes, whatever needs
 tracking — instead of a fixed structure. Optional sync to your own Google
-Sheets, Docs, and Calendar.
+Sheets, Docs, and Calendar. The AI features (Quick Capture cleanup and
+AI-assisted module setup) have two ways to run: bring your own Anthropic
+API key, or use the passcode-gated hosted version if you have one — sync
+stays on your own Google account either way.
 
-**[Try it](https://laustenfaund.github.io/Note_Goat/)** · [Source](https://github.com/laustenfaund/Note_Goat)
+**[Try it](https://laustenfaund.github.io/Note_Goat/)** (bring your own key) · **[Try the hosted version](https://laustenfaund.github.io/Note_Goat/hosted/)** (passcode) · [Source](https://github.com/laustenfaund/Note_Goat)
 
 ## ⚗️ [Distill](https://github.com/laustenfaund/Distill)
 Reworks whatever you're about to send an LLM into something denser and

@@ -9,10 +9,11 @@ routes through a small proxy of mine instead.
 ## 🔍 [Archive Mole](https://github.com/laustenfaund/Archive_Mole)
 A local, offline reader for your ChatGPT and Claude conversation exports —
 search, filter, tag, and browse your own archive without sending it
-anywhere. Core browsing needs no setup; the optional in-app AI assistant
-needs your own Anthropic API key (bring your own key).
+anywhere. Core browsing needs no setup. The optional in-app AI assistant
+has two ways to run: bring your own Anthropic API key, or use the
+passcode-gated hosted version if you have one.
 
-**[Try it](https://laustenfaund.github.io/Archive_Mole/)** · [Source](https://github.com/laustenfaund/Archive_Mole)
+**[Try it](https://laustenfaund.github.io/Archive_Mole/)** (bring your own key) · **[Try the hosted version](https://laustenfaund.github.io/Archive_Mole/hosted/)** (passcode) · [Source](https://github.com/laustenfaund/Archive_Mole)
 
 ## 🗣️ [U/I](https://github.com/laustenfaund/UI)
 Reworks a message into phrasing more legible to a reader who communicates

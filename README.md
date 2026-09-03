@@ -2,7 +2,9 @@
 
 I build small, self-contained tools — single HTML files, no accounts, no
 backend. Everything below runs entirely in your browser; where a tool talks
-to an LLM at all, it's your own API key, called directly from the page.
+to an LLM at all, that's either your own API key called directly from the
+page, or — for a couple of these — a passcode-gated hosted version that
+routes through a small proxy of mine instead.
 
 ## 🔍 [Archive Mole](https://github.com/laustenfaund/Archive_Mole)
 A local, offline reader for your ChatGPT and Claude conversation exports —
@@ -15,10 +17,11 @@ needs your own Anthropic API key (bring your own key).
 ## 🗣️ [U/I](https://github.com/laustenfaund/UI)
 Reworks a message into phrasing more legible to a reader who communicates
 differently than you do — aimed at diffusing the tension misunderstanding
-causes, not just at literal translation. Needs your own Anthropic API key
-to run (bring your own key).
+causes, not just at literal translation. Two ways to run it: bring your
+own Anthropic API key, or use the passcode-gated hosted version if you
+have one.
 
-**[Try it](https://laustenfaund.github.io/UI/)** · [Source](https://github.com/laustenfaund/UI)
+**[Try it](https://laustenfaund.github.io/UI/)** (bring your own key) · **[Try the hosted version](https://laustenfaund.github.io/UI/hosted/)** (passcode) · [Source](https://github.com/laustenfaund/UI)
 
 ## 🏗️ [Project Manager](https://github.com/laustenfaund/ProjectManager)
 A single-file construction/renovation project tracker — twelve tabs

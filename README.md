@@ -16,14 +16,13 @@ passcode-gated hosted version if you have one.
 **[Try it](https://laustenfaund.github.io/Archive_Mole/)** (bring your own key) · **[Try the hosted version](https://laustenfaund.github.io/Archive_Mole/hosted/)** (passcode) · [Source](https://github.com/laustenfaund/Archive_Mole)
 
 ## 🔎 [In Your Base](https://github.com/laustenfaund/In_Your_Base)
-Archive Mole's little sibling, generalized past chat exports — a local,
-offline reader for whatever exported data you drop into it. Detects the
-file's structure automatically: reads a recognized export with full
-precision, and reads anything else from whatever fields and structure
-it actually has, nothing invented or guessed at. Search, filter, tag,
-and browse without sending it anywhere. The optional in-app AI assistant
-has two ways to run: bring your own Anthropic API key, or the
-passcode-gated hosted version — once its proxy is deployed.
+A local, offline reader for whatever exported data you drop into it.
+Detects the file's structure automatically: reads a recognized export
+with full precision, and reads anything else from whatever fields and
+structure it actually has, nothing invented or guessed at. Search,
+filter, tag, and browse without sending it anywhere. The optional
+in-app AI assistant has two ways to run: bring your own Anthropic API
+key, or the passcode-gated hosted version — once its proxy is deployed.
 
 **[Try it](https://laustenfaund.github.io/In_Your_Base/)** (bring your own key) · [Hosted version](https://laustenfaund.github.io/In_Your_Base/hosted/) (passcode — proxy not deployed yet) · [Source](https://github.com/laustenfaund/In_Your_Base)
 

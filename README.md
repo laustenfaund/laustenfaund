@@ -3,28 +3,33 @@
 I build small, self-contained tools — single HTML files, no accounts, no
 backend. Everything below runs entirely in your browser; where a tool talks
 to an LLM at all, that's either your own API key called directly from the
-page, or — for a couple of these — a passcode-gated hosted version that
-routes through a small proxy of mine instead.
+page, or — for most of these — a passcode-gated hosted version that
+routes through a small proxy of mine instead. These are personal projects
+I build and use myself, at varying stages of maturity — Note Goat, Distill,
+U/I, and Project Manager have been stable for a while; Archive Mole's AI
+assistant and In Your Base are newer and still changing.
 
 ## 🔍 [Archive Mole](https://github.com/laustenfaund/Archive_Mole)
 A local, offline reader for your ChatGPT and Claude conversation exports —
 search, filter, tag, and browse your own archive without sending it
-anywhere. Core browsing needs no setup. The optional in-app AI assistant
-has two ways to run: bring your own Anthropic API key, or use the
-passcode-gated hosted version if you have one.
+anywhere. Core browsing has been stable for a while. The optional in-app
+AI assistant (chat with your archive, streaming responses, copy out its
+findings) is newer and still evolving; it has two ways to run: bring your
+own Anthropic API key, or use the passcode-gated hosted version if you
+have one.
 
 **[Try it](https://laustenfaund.github.io/Archive_Mole/)** (bring your own key) · **[Try the hosted version](https://laustenfaund.github.io/Archive_Mole/hosted/)** (passcode) · [Source](https://github.com/laustenfaund/Archive_Mole)
 
 ## 🔎 [In Your Base](https://github.com/laustenfaund/In_Your_Base)
-A local, offline reader for whatever exported data you drop into it.
-Detects the file's structure automatically: reads a recognized export
-with full precision, and reads anything else from whatever fields and
-structure it actually has, nothing invented or guessed at. Search,
-filter, tag, and browse without sending it anywhere. The optional
-in-app AI assistant has two ways to run: bring your own Anthropic API
-key, or the passcode-gated hosted version — once its proxy is deployed.
+The newest of these tools, and the least battle-tested. A local, offline
+reader for whatever exported data you drop into it: it tries to detect a
+recognized export format and parse it structurally, and otherwise falls
+back to showing whatever fields the file actually has rather than
+guessing. Search, filter, tag, and browse without sending it anywhere.
+The optional in-app AI assistant has two ways to run: bring your own
+Anthropic API key, or the passcode-gated hosted version.
 
-**[Try it](https://laustenfaund.github.io/In_Your_Base/)** (bring your own key) · [Hosted version](https://laustenfaund.github.io/In_Your_Base/hosted/) (passcode — proxy not deployed yet) · [Source](https://github.com/laustenfaund/In_Your_Base)
+**[Try it](https://laustenfaund.github.io/In_Your_Base/)** (bring your own key) · **[Try the hosted version](https://laustenfaund.github.io/In_Your_Base/hosted/)** (passcode) · [Source](https://github.com/laustenfaund/In_Your_Base)
 
 ## 🗣️ [U/I](https://github.com/laustenfaund/UI)
 Reworks a message into phrasing more legible to a reader who communicates

@@ -9,7 +9,7 @@ I build and use myself, at varying stages of maturity — Note Goat, Distill,
 U/I, and Project Manager have been stable for a while; Archive Mole's AI
 assistant and In Your Base are newer and still changing.
 
-## 🔍 [Archive Mole](https://github.com/laustenfaund/Archive_Mole)
+## <img src="assets/icons/archive-mole.png" width="24" height="24" align="top"> [Archive Mole](https://github.com/laustenfaund/Archive_Mole)
 A local, offline reader for your ChatGPT and Claude conversation exports —
 search, filter, tag, and browse your own archive without sending it
 anywhere. Core browsing has been stable for a while. The optional in-app
@@ -20,7 +20,7 @@ have one.
 
 **[Try it](https://laustenfaund.github.io/Archive_Mole/)** (bring your own key) · **[Try the hosted version](https://laustenfaund.github.io/Archive_Mole/hosted/)** (passcode) · [Source](https://github.com/laustenfaund/Archive_Mole)
 
-## 🔎 [In Your Base](https://github.com/laustenfaund/In_Your_Base)
+## <img src="assets/icons/in-your-base.png" width="24" height="24" align="top"> [In Your Base](https://github.com/laustenfaund/In_Your_Base)
 The newest of these tools, and the least battle-tested. A local, offline
 reader for whatever exported data you drop into it: it tries to detect a
 recognized export format and parse it structurally, and otherwise falls
@@ -31,7 +31,7 @@ Anthropic API key, or the passcode-gated hosted version.
 
 **[Try it](https://laustenfaund.github.io/In_Your_Base/)** (bring your own key) · **[Try the hosted version](https://laustenfaund.github.io/In_Your_Base/hosted/)** (passcode) · [Source](https://github.com/laustenfaund/In_Your_Base)
 
-## 🗣️ [U/I](https://github.com/laustenfaund/UI)
+## <img src="assets/icons/ui.png" width="24" height="24" align="top"> [U/I](https://github.com/laustenfaund/UI)
 Reworks a message into phrasing more legible to a reader who communicates
 differently than you do — aimed at diffusing the tension misunderstanding
 causes, not just at literal translation. Two ways to run it: bring your
@@ -40,7 +40,7 @@ have one.
 
 **[Try it](https://laustenfaund.github.io/UI/)** (bring your own key) · **[Try the hosted version](https://laustenfaund.github.io/UI/hosted/)** (passcode) · [Source](https://github.com/laustenfaund/UI)
 
-## 🏗️ [Project Manager](https://github.com/laustenfaund/ProjectManager)
+## <img src="assets/icons/project-manager.png" width="24" height="24" align="top"> [Project Manager](https://github.com/laustenfaund/ProjectManager)
 A single-file construction/renovation project tracker — twelve tabs
 covering a project end to end, with optional sync to your own Google
 Sheets, Docs, and Drive.
@@ -58,7 +58,7 @@ stays on your own Google account either way.
 
 **[Try it](https://laustenfaund.github.io/NoteGoat/)** (bring your own key) · **[Try the hosted version](https://laustenfaund.github.io/NoteGoat/hosted/)** (passcode) · [Source](https://github.com/laustenfaund/NoteGoat)
 
-## ⚗️ [Distill](https://github.com/laustenfaund/Distill)
+## <img src="assets/icons/distill.png" width="24" height="24" align="top"> [Distill](https://github.com/laustenfaund/Distill)
 Reworks whatever you're about to send an LLM into something denser and
 structurally clearer — same meaning, fewer tokens, easier to parse
 correctly the first time. Two ways to run it: bring your own Anthropic
